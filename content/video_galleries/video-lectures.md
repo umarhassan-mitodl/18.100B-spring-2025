@@ -1,0 +1,34 @@
+---
+content_type: video_gallery
+draft: false
+title: Video Lectures
+uid: ebe0bedc-b42d-4c4f-8f69-72fde3ffa91c
+videos:
+  content:
+  - d81ed24f-cef0-427a-93d0-67d64da0981f
+  - ce1144ec-8751-4e40-aff7-e0dfc11b5b76
+  - 2474b42c-55bd-477f-a066-cf9f31fe264a
+  - 2d297ab7-f9e1-4a39-8116-23a9400b586e
+  - 0cba7276-7b22-421d-a63c-38cecab477b1
+  - 2faf909d-bc49-483a-b189-deed6643e39b
+  - fbd4b189-d1cb-402a-9b83-22b773056645
+  - 477a6905-f11d-4c7c-b8b5-81117caaa777
+  - 08295258-1272-406d-82bc-b68ff3eb46fa
+  - 88e2b9fe-f880-4fa7-8347-d09122670ef1
+  - 61c40598-8772-4512-942b-8b7ccf0cf1ad
+  - 15cee651-89f3-4cc2-811d-85eda4731ca9
+  - 7e819793-b1a3-4275-8daf-11a724271a43
+  - 7c169a58-441b-479b-92d7-861034b3bec5
+  - 1a888b34-24f9-4b0f-8130-db2c40aa7c9e
+  - 537920d4-f179-4b67-802c-5d4a978e6442
+  - 9d74cbe7-48b1-46c4-975e-a4c732745a69
+  - 4b32b57b-c4ef-45a5-8caf-3b8e82ec89b5
+  - c35b0cbe-dfea-4c2e-9c98-aab03d84686d
+  - 66876243-bb3d-4caf-9f4c-5108c9d75579
+  - 7422f074-a7e8-4925-9d2d-373b7049c22f
+  - 8d38c386-dec7-4039-8577-200ca3035c80
+  - fcd823e5-6010-4363-a2a2-f53b9fdda702
+  - cf903301-54fd-4d93-8529-4125c9089927
+  - fab13735-be9f-4881-9be2-4baaa4e06428
+  website: real-analysis
+---
