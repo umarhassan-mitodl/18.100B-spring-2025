@@ -12,7 +12,7 @@ Lectures: 2 sessions/week, 1.5 hours/session
 
 ## Prerequisites
 
-[*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+{{% resource_link "dea11fc6-4357-4601-912a-84fb15d13d25" "*18.02 Multivariable Calculus*" %}}
 
 ## Description
 
@@ -29,15 +29,15 @@ The course will start with real numbers, limits, convergence, series and contin
 
 Brian S. Thomson, Judith B. Bruckner, and Andrew M. Bruckner. 2008. *Elementary Real Analysis*. 2nd ed. ISBN: 9781434843678
 
-[A screen-optimized PDF version of the textbook is available.](https://classicalrealanalysis.info/com/documents/TBB-AllChapters-Landscape.pdf)         
+{{% resource_link "79ae56e9-4962-483f-b4cd-6e92fb6a685b" "A screen-optimized PDF version of the textbook is available." %}}         
 
-[A print-optimized PDF version of the textbook is available.](https://classicalrealanalysis.info/com/documents/TBB-AllChapters-Portrait.pdf)               
+{{% resource_link "a0230d07-5e53-461c-8dcd-15dd87573ea8" "A print-optimized PDF version of the textbook is available." %}}               
 
 ### Other Textbook 
 
 Rudin, Walter. 1976. *Principles of Mathematical Analysis (International Series in Pure and Applied Mathematics)*. 3rd ed. McGraw-Hill. ISBN: 9780070542358 
 
-The latest edition is the 1976 third edition. It’s not available to purchase as an ebook, [but it has been digitized by the Internet Archive](https://archive.org/details/principles-of-mathematical-analysis-walter-rudin?). You can access the book by creating a free personal Internet Archive account. You can then log in and [borrow the book (for one hour at a time, looks like](https://help.archive.org/help/category/archive-org/borrow-a-book-from-archive-org/)). 
+The latest edition is the 1976 third edition. It’s not available to purchase as an ebook, {{% resource_link "f437c6f0-82aa-403d-b944-e90758be6c49" "but it has been digitized by the Internet Archive" %}}. You can access the book by creating a free personal Internet Archive account. You can then log in and {{% resource_link "1c110938-7e8b-4e18-9d17-d274c74588b8" "borrow the book (for one hour at a time, looks like" %}}). 
 
 ## Requirements
 
